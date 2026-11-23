@@ -1,5 +1,4 @@
-## About This Organization:
+## About PTRCZLAB
 
-This organization primarily is used for private projects.
-
-
+Most repositories here are private.
+Unless a repository states otherwise, all rights are reserved.
